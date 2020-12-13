@@ -20,7 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="5d8ac362-466f-4037-8bfc-1b0f9c6ce5a2" />
+  <component name="JupyterTrust" id="c1c27a87-d0a0-46a9-bc2e-db9e87f8b8db" />
   <component name="ProjectId" id="1lTz5J1SQ2jt0kxTRXxW1cGKAwm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,10 +44,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/EECE4081_Courses-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gmart\IdeaProjects\website\templates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
@@ -97,6 +108,8 @@
       <updated>1607635687366</updated>
       <workItem from="1607635688425" duration="2822000" />
       <workItem from="1607640345590" duration="782000" />
+      <workItem from="1607804064849" duration="3118000" />
+      <workItem from="1607807719086" duration="6099000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -121,6 +134,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py" />
@@ -132,30 +146,39 @@
     </state>
     <state x="-1480" y="94" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640403693" />
     <state x="440" y="94" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607639758553" />
-    <state x="-1180" y="274" key="FileChooserDialogImpl" timestamp="1607640335178">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1607814066442">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="274" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640335178" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1607640424521">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="740" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607814066442" />
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom" timestamp="1607834332042">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640424521" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1607640424521">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607834332042" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center" timestamp="1607834332042">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640424520" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1607640424520">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="243" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607834332042" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left" timestamp="1607834332042">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640424520" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1607640424521">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="243" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607834332042" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right" timestamp="1607834332042">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640424521" />
+    <state width="1877" height="243" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607834332042" />
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2" timestamp="1607640499148">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1368" y="252" key="Vcs.Push.Dialog.v2/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1607640499148" />
+    <state x="1147" y="96" width="585" height="888" key="find.popup" timestamp="1607807299781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1147" y="96" width="585" height="888" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1607807299781" />
     <state x="-1578" y="116" key="new project wizard" timestamp="1607640219230">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -167,6 +190,6 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/website$app.coverage" NAME="app Coverage Results" MODIFIED="1607640424511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website$app.coverage" NAME="app Coverage Results" MODIFIED="1607834332023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
