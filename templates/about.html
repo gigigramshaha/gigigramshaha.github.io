@@ -1,10 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>About</title>
-</head>
-<body>
+{% extends "layout.html" %}
 
-</body>
-</html>
+{% block page_title %}About{% endblock %}
+
+{% block content %}
+
+    <div class="container-lg m-3 p-5">
+        <h1>Who are you?</h1>
+        <div class="container m-3">
+            <p class="lead">
+                Georgeann Martin. Imagine that.
+            </p>
+            <p>
+                I can tell you who I'm not: I'm not the brainiac who could code before they could walk, I'm not a member
+                of the esteemed high IQ society Mensa, and somehow I don't think I'll be the first woman on the moon.
+                Bummer.
+                <br><br>
+                Even still, I'm unlike anyone you've ever met. I have―get this―varied interests. Pretty unique, right?
+                The culture of seeking jobs or figuring out your life's pursuit seems to have shifted towards forcing
+                people to decide on one, maybe two, interests and excelling purely at that. But I don't think most
+                people can fit in one box. I know I don't.
+
+            </p>
+        </div>
+        <br>
+        <h1>What's this website?</h1>
+        <div class="container m-3">
+            <p class="lead">
+                I took one course on front-end development, and here we are.
+            </p>
+            <p>
+                Back in the Fall of 2020, I took a software engineering course as a part of my degree program. Students
+                were divided up into teams to create different components for a website, and the end result was so
+                satisfying, I had to find some excuse to do it again.
+                <br><br>
+                This website serves as a journal for my interests, whether it's a project I completed, a review for a
+                book I read, or a blog on why Game of Thrones has been bad since season 5. Look around, enjoy your stay,
+                and feel free to steal some ideas!
+            </p>
+        </div>
+        <br>
+        <h1>Okay, okay, but for business this time. Who are you?</h1>
+        <div class="container m-3">
+            <p>
+
+            </p>
+        </div>
+    </div>
+
+{% endblock %}
