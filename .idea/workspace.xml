@@ -19,16 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
-      <change beforePath="$PROJECT_DIR$/.idea/website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/website.iml" afterDir="false" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Changed stuff on About page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bookclub.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bookclub.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/guides.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/guides.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +133,8 @@
       <workItem from="1625676411471" duration="258000" />
       <workItem from="1625763453837" duration="599000" />
       <workItem from="1625783256172" duration="7000" />
-      <workItem from="1625931792884" duration="22486000" />
+      <workItem from="1625931792884" duration="23777000" />
+      <workItem from="1626020455247" duration="4291000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -149,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607640492320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changed stuff on About page">
+      <created>1625960540172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625960540172</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,13 +170,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py" />
+    <MESSAGE value="Changed stuff on About page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed stuff on About page" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/website$app.coverage" NAME="app Coverage Results" MODIFIED="1625932011378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website$app.coverage" NAME="app Coverage Results" MODIFIED="1626020473433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
