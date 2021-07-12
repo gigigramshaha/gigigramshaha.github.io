@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="About me info, resume and linkedin">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Adding stuff not tracked by Git">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +144,7 @@
       <workItem from="1625763453837" duration="599000" />
       <workItem from="1625783256172" duration="7000" />
       <workItem from="1625931792884" duration="23777000" />
-      <workItem from="1626020455247" duration="9579000" />
+      <workItem from="1626020455247" duration="9840000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -168,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626037241169</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding stuff not tracked by Git">
+      <created>1626050369476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626050369476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +196,8 @@
     <MESSAGE value="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py" />
     <MESSAGE value="Changed stuff on About page" />
     <MESSAGE value="About me info, resume and linkedin" />
-    <option name="LAST_COMMIT_MESSAGE" value="About me info, resume and linkedin" />
+    <MESSAGE value="Adding stuff not tracked by Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding stuff not tracked by Git" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
