@@ -19,8 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Removed index for testing">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;">
+      <change afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/bookclub.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/guides.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +152,7 @@
       <workItem from="1625931792884" duration="23777000" />
       <workItem from="1626020455247" duration="10500000" />
       <workItem from="1626096631456" duration="1514000" />
-      <workItem from="1626220230459" duration="1514000" />
+      <workItem from="1626220230459" duration="1839000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -190,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626220907523</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ok i added it (index.html rerout) back">
+      <created>1626221764685</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1626221764685</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;">
+      <created>1626221989833</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626221989833</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +235,9 @@
     <MESSAGE value="Adding stuff not tracked by Git" />
     <MESSAGE value="Attempts to fix index" />
     <MESSAGE value="Removed index for testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed index for testing" />
+    <MESSAGE value="ok i added it (index.html rerout) back" />
+    <MESSAGE value="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
