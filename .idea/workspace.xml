@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Attempts to fix index">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Removed index for testing">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +146,7 @@
       <workItem from="1625931792884" duration="23777000" />
       <workItem from="1626020455247" duration="10500000" />
       <workItem from="1626096631456" duration="1514000" />
-      <workItem from="1626220230459" duration="661000" />
+      <workItem from="1626220230459" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -184,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626050493449</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Removed index for testing">
+      <created>1626220907523</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1626220907523</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +214,8 @@
     <MESSAGE value="About me info, resume and linkedin" />
     <MESSAGE value="Adding stuff not tracked by Git" />
     <MESSAGE value="Attempts to fix index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempts to fix index" />
+    <MESSAGE value="Removed index for testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed index for testing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
