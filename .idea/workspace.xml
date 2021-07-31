@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Testing to see if Bootstrap works">
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Testing to see if Bootstrap href works">
+      <change afterPath="$PROJECT_DIR$/_layouts/navbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -84,6 +85,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="website" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +156,7 @@
       <workItem from="1626220230459" duration="3664000" />
       <workItem from="1627005086509" duration="655000" />
       <workItem from="1627008770677" duration="12000" />
-      <workItem from="1627762494511" duration="3999000" />
+      <workItem from="1627762494511" duration="5976000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -223,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627769763207</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Testing to see if Bootstrap href works">
+      <created>1627772379144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1627772379144</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +272,8 @@
     <MESSAGE value="Actually adding docs now" />
     <MESSAGE value="Removing README bc it's a problem child" />
     <MESSAGE value="Testing to see if Bootstrap works" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing to see if Bootstrap works" />
+    <MESSAGE value="Testing to see if Bootstrap href works" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing to see if Bootstrap href works" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
