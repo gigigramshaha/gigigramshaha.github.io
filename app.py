@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def homepage():
-    return render_template('index.html')
+    return render_template('docs/index.html')
 
 
 @app.route("/blog")
@@ -20,27 +20,27 @@ def blog():
         else:
             continue
 
-    return render_template('blog.html', blog_posts=blog_posts)
+    return render_template('docs/blog.html', blog_posts=blog_posts)
 
 
 @app.route("/guides")
 def guides():
-    return render_template('guides.html')
+    return render_template('docs/guides.html')
 
 
 @app.route("/projects")
 def projects():
-    return render_template('projects.html')
+    return render_template('docs/projects.html')
 
 
 @app.route("/bookclub")
 def bookclub():
-    return render_template('bookclub.html')
+    return render_template('docs/bookclub.html')
 
 
 @app.route("/about")
 def about():
-    return render_template('about.html')
+    return render_template('docs/about.html')
 
 
 if __name__ == "__main__":

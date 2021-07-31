@@ -19,14 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;">
-      <change afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/blog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/bookclub.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/guides.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/projects.html" afterDir="false" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Removing README bc it's a problem child">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,17 +80,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="website" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,7 +137,10 @@
       <workItem from="1625931792884" duration="23777000" />
       <workItem from="1626020455247" duration="10500000" />
       <workItem from="1626096631456" duration="1514000" />
-      <workItem from="1626220230459" duration="1839000" />
+      <workItem from="1626220230459" duration="3664000" />
+      <workItem from="1627005086509" duration="655000" />
+      <workItem from="1627008770677" duration="12000" />
+      <workItem from="1627762494511" duration="2198000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -210,7 +198,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626221989833</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Actually adding docs now">
+      <created>1626222089506</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1626222089506</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removing README bc it's a problem child">
+      <created>1626222171732</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626222171732</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,13 +239,15 @@
     <MESSAGE value="Removed index for testing" />
     <MESSAGE value="ok i added it (index.html rerout) back" />
     <MESSAGE value="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;" />
+    <MESSAGE value="Actually adding docs now" />
+    <MESSAGE value="Removing README bc it's a problem child" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing README bc it's a problem child" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/website$app.coverage" NAME="app Coverage Results" MODIFIED="1626220268177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/website$app.coverage" NAME="app Coverage Results" MODIFIED="1627006643135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
