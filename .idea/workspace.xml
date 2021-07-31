@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Removing README bc it's a problem child">
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Testing to see if Bootstrap works">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="5d8ac362-466f-4037-8bfc-1b0f9c6ce5a2" />
@@ -140,7 +144,7 @@
       <workItem from="1626220230459" duration="3664000" />
       <workItem from="1627005086509" duration="655000" />
       <workItem from="1627008770677" duration="12000" />
-      <workItem from="1627762494511" duration="2198000" />
+      <workItem from="1627762494511" duration="3999000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -212,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626222171732</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Testing to see if Bootstrap works">
+      <created>1627769763207</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1627769763207</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,7 +252,8 @@
     <MESSAGE value="ok i deleted it again and changed &quot;templates&quot; to &quot;docs&quot;" />
     <MESSAGE value="Actually adding docs now" />
     <MESSAGE value="Removing README bc it's a problem child" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removing README bc it's a problem child" />
+    <MESSAGE value="Testing to see if Bootstrap works" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing to see if Bootstrap works" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
