@@ -19,10 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Testing to see if Bootstrap href works">
-      <change afterPath="$PROJECT_DIR$/_layouts/navbar.html" afterDir="false" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Testing invoking a navbar template">
+      <change afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +158,7 @@
       <workItem from="1626220230459" duration="3664000" />
       <workItem from="1627005086509" duration="655000" />
       <workItem from="1627008770677" duration="12000" />
-      <workItem from="1627762494511" duration="5976000" />
+      <workItem from="1627762494511" duration="7473000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -242,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627772379144</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Testing invoking a navbar template">
+      <created>1627774361342</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1627774361342</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,7 +282,8 @@
     <MESSAGE value="Removing README bc it's a problem child" />
     <MESSAGE value="Testing to see if Bootstrap works" />
     <MESSAGE value="Testing to see if Bootstrap href works" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing to see if Bootstrap href works" />
+    <MESSAGE value="Testing invoking a navbar template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing invoking a navbar template" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
