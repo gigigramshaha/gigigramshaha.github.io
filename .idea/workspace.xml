@@ -19,29 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Testing invoking a navbar template">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/bookclub.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/guides.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/post1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/posts/post2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Finally getting somewhere with Jekyll :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +160,7 @@
       <workItem from="1627851726744" duration="4535000" />
       <workItem from="1627862196480" duration="1039000" />
       <workItem from="1627863375282" duration="47000" />
-      <workItem from="1627863504794" duration="1775000" />
+      <workItem from="1627863504794" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -275,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627774361342</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Finally getting somewhere with Jekyll :)">
+      <created>1627865301212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627865301212</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +292,8 @@
     <MESSAGE value="Testing to see if Bootstrap works" />
     <MESSAGE value="Testing to see if Bootstrap href works" />
     <MESSAGE value="Testing invoking a navbar template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing invoking a navbar template" />
+    <MESSAGE value="Finally getting somewhere with Jekyll :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally getting somewhere with Jekyll :)" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
