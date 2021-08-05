@@ -19,9 +19,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Trying to fix branches">
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Gotta save these">
+      <change afterPath="$PROJECT_DIR$/_includes/disqus_comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-github.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-github.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-twitter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/icon-twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/minima.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/minima/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/minima/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sass/minima/_syntax-highlighting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/minima-social-icons.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/website.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,15 +93,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="/bin/ruby" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Georgeann\Desktop\website\templates" />
     </key>
@@ -167,7 +191,8 @@
       <workItem from="1627863375282" duration="47000" />
       <workItem from="1627863504794" duration="2507000" />
       <workItem from="1627866437527" duration="759000" />
-      <workItem from="1627944080573" duration="461000" />
+      <workItem from="1627944080573" duration="767000" />
+      <workItem from="1628113252695" duration="3135000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -267,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627865301212</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Gotta save these">
+      <created>1627944602286</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627944602286</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +332,8 @@
     <MESSAGE value="Testing to see if Bootstrap href works" />
     <MESSAGE value="Testing invoking a navbar template" />
     <MESSAGE value="Finally getting somewhere with Jekyll :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finally getting somewhere with Jekyll :)" />
+    <MESSAGE value="Gotta save these" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gotta save these" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
