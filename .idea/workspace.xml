@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Stuff for theme">
+      <change afterPath="$PROJECT_DIR$/_layouts/home-fixes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/home-hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/home-projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-fixes/_posts/2021-08-05-first-fixes-post.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-fixes/fixes-index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-hobbies/_posts/2021-08-05-first-hobby-post.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-hobbies/hobbies-index.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-projects/_posts/2021-08-05-first-project-post.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-projects/project-index.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +80,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/subject-fixes" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -83,7 +90,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/subject-fixes" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/subject-fixes/_posts" />
+      <recent name="$PROJECT_DIR$/subject-hobbies" />
+      <recent name="$PROJECT_DIR$/subject-hobbies/_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Georgeann\Desktop\website\templates" />
