@@ -23,45 +23,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Stuff for theme">
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/script.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_about.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_includes/social.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_layouts/home-fixes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_layouts/home-hobbies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_layouts/home-projects.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/minima_layouts/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/disqus_comments.html" beforeDir="false" afterPath="$PROJECT_DIR$/minima_includes/disqus_comments.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/minima_includes/google-analytics.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-github.html" beforeDir="false" afterPath="$PROJECT_DIR$/minima_includes/icon-github.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/minima_includes/icon-github.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-twitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/minima_includes/icon-twitter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/minima_includes/icon-twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/social.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/minima_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/minima_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minima/_syntax-highlighting.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minima-social-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/minima_index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +82,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_layouts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
@@ -123,10 +93,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_layouts" />
       <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/subject-fixes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -221,6 +191,7 @@
       <workItem from="1630351077689" duration="6235000" />
       <workItem from="1631931609123" duration="7579000" />
       <workItem from="1632081053195" duration="338000" />
+      <workItem from="1632149444863" duration="9042000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>

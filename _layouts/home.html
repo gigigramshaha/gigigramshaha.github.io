@@ -16,9 +16,13 @@ layout: default
         <div class="row row-cols-1 row-cols-md-3 g-4">
           {%- for post in site.posts limit:3-%}
           <div class="col">
-            <div class="card href="{{ post.url | relative_url }}"">
+            <div class="card">
               <div class="card-body">
-                <h5 class="card-title">{{ post.title | escape }}</h5>
+                <h4 class="card-title">
+                  <a href="{{ post.url | relative_url }}" class="stretched-link" style="color: #000000; text-decoration: none;">
+                    {{ post.title | escape }}
+                  </a>
+                </h4>
                 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
                 <h6 class="card-subtitle mb-2 text-muted">{{ post.date | date: date_format }}</h6>
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -31,3 +35,5 @@ layout: default
     </ul>
   {%- endif -%}
 </div>
+
+
