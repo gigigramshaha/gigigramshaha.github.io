@@ -22,7 +22,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Stuff for theme" />
+    <list default="true" id="91b3ea9f-164d-4e58-a9e4-3f116795bb01" name="Default Changelist" comment="Removed file for Bootstrap icons since I'm using the CDN anyways.">
+      <change afterPath="$PROJECT_DIR$/_layouts/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/arcade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/math.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/music.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pictures/playstation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subject-hobbies/_posts/2022-02-07-integration-whats-the-point.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/headshot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/headshot.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +64,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="custom_jekyll_theme" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +87,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pictures" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
@@ -83,11 +98,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pictures" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_layouts" />
       <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$/subject-fixes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Georgeann\Desktop\website\templates" />
@@ -184,6 +199,15 @@
       <workItem from="1631931609123" duration="7579000" />
       <workItem from="1632081053195" duration="338000" />
       <workItem from="1632149444863" duration="9042000" />
+      <workItem from="1632166570313" duration="2631000" />
+      <workItem from="1632180099758" duration="8328000" />
+      <workItem from="1632195300216" duration="802000" />
+      <workItem from="1632246450488" duration="357000" />
+      <workItem from="1632256277935" duration="3060000" />
+      <workItem from="1636578090314" duration="79000" />
+      <workItem from="1644279289419" duration="4799000" />
+      <workItem from="1645115820458" duration="5109000" />
+      <workItem from="1645299645521" duration="1435000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit&#10;&#10;Test to see if url works.&#10;&#10;- added app.py">
       <created>1607640492320</created>
@@ -297,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628131674054</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Removed file for Bootstrap icons since I'm using the CDN anyways.">
+      <created>1632165852993</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1632165852993</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +363,8 @@
     <MESSAGE value="Finally getting somewhere with Jekyll :)" />
     <MESSAGE value="Gotta save these" />
     <MESSAGE value="Stuff for theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stuff for theme" />
+    <MESSAGE value="Removed file for Bootstrap icons since I'm using the CDN anyways." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed file for Bootstrap icons since I'm using the CDN anyways." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

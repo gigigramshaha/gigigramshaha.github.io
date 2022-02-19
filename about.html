@@ -1,18 +1,102 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
-<h2>Who are you?</h2>
-<h4>Georgeann Martin. Imagine that.</h4>
-Since I was little, I’ve had a passion for technology. My dad worked an IT job, and many days were spent
-toying with the different gadgets and computers he brought home. Other days were spent sitting by my
-brother as we all took turns playing video games together. Our family always kept up with the latest
-consoles and games; it was a group activity for us. So when I wanted to get into PC gaming in 8th grade,
-of course my dad helped me build my first computer. Pair that with a phenomenal high school math teacher
-who made algebra and calculus interesting, and my ideal career pursuit became crystal clear.
+<style>
+    .headerQuestion {
 
-I'm a senior honors student at the University of Memphis, majoring in computer engineering, electrical
-engineering, and math. From my studies, I've most enjoyed digital systems, coding, and web development,
-though I have other interests as well (like boiled custard). Most of all, I love solving problems.
+    }
+
+    .headerOneLine {
+
+    }
+
+    .paragraphText {
+        font-size: large;
+    }
+
+    .whoAreYou {
+        display: flex;
+    }
+
+    .whoAreYouText {
+        flex: 1;
+        flex-grow: 1.25;
+    }
+
+    .stfu, .carousel {
+        flex: 1;
+        align-items: flex-start;
+        margin-right: 0;
+    }
+
+    img {
+        width: 50%;
+        margin: auto;
+    }
+</style>
+
+<div class="container">
+    <h1>About Me</h1>
+</div>
+<div class="whoAreYou container bg-light">
+    <div class="whoAreYouText container bg-light">
+        <h2 class="py-2 headerQuestion">Who are you?</h2>
+        <h5 class="headerOneLine">Georgeann Martin. Imagine that.</h5>
+        <div class="container py-2 bg-light">
+            <p class="paragraphText">
+                Born and raised in Memphis, Tennessee, I've always had a passion for technology. I've spent the last 4 years
+                working on my undergraduate degrees in Computer Engineering, Electrical Engineering, and Mathematical Sciences
+                from the University of Memphis.
+                <br><br>
+                What I've enjoyed most from my time in college has been digital systems, coding, and web development,
+                though I have other interests as well (like boiled custard!). Most of all, I love solving problems.
+            </p>
+        </div>
+        <h2 class="py-2 headerQuestion">What's this website?</h2>
+        <h5 class="headerOneLine">I took one course on web development, and here we are.</h5>
+        <div class="container py-2 bg-light">
+            <p class="paragraphText">
+                Born and raised in Memphis, Tennessee, I've always had a passion for technology. I've spent the last 4 years
+                working on my undergraduate degrees in Computer Engineering, Electrical Engineering, and Mathematical Sciences
+                from the University of Memphis.
+                <br><br>
+                What I've enjoyed most from my time in college has been digital systems, coding, and web development,
+                though I have other interests as well (like boiled custard!). Most of all, I love solving problems.
+            </p>
+        </div>
+    </div>
+
+    <div class="container stfu">
+        <div id="who" class="carousel slide">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#who" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#who" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#who" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="/pictures/headshot.jpg" class="d-block w-75 img-fluid">
+                </div>
+                <div class="carousel-item">
+                    <img src="/pictures/headshot.jpg" class="d-block w-75 img-fluid">
+                </div>
+                <div class="carousel-item">
+                    <img src="/pictures/headshot.jpg" class="d-block w-75 img-fluid">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#who" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#who" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+
+</div>
+
+
